@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MongoShop.props" />
+</Project>
