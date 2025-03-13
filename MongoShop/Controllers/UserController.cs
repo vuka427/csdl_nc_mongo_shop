@@ -1,4 +1,5 @@
 ﻿using AspNetCore.Identity.Mongo.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Bson;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace MongoShop.Controllers;
 
-//[Authorize(Roles = "user")]
+[Authorize(Roles = "user")]
 public class UserController : Controller
 {
     private readonly UserManager<AppUser> _userManager;

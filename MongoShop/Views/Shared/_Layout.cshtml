@@ -16,15 +16,23 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="User" asp-action="Index">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     MongoShop
                 </a>
+                <a class="navbar-brand" asp-area="" asp-controller="Product" asp-action="Index">
+                    Sản phẩm
+                </a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    Giỏ hàng
+                </a>
+              
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <partial name="_LoginPartial" />
+                    <partial name="_MenuManagePartial" />
                 </div>
             </div>
         </nav>
@@ -43,14 +51,8 @@
     </footer>
 
 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.esm.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.esm.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
-
-    
     <script src="~/js/site.js" asp-append-version="true"></script>
   
     @RenderSection("Scripts", required: false)

@@ -2,7 +2,7 @@
 @using MongoShop.Views.Manage
 @model MongoShop.Models.Identity.ManageViewModels.ExternalLoginsViewModel
 @{
-    ViewData["Title"] = "Manage your external logins";
+    ViewData["Title"] = "Quản lý dịch vụ đăng nhập";
     ViewData.AddActivePage(ManageNavPages.ExternalLogins);
 }
 
@@ -23,7 +23,7 @@
                                 <div>
                                     <input asp-for="@login.LoginProvider" name="LoginProvider" type="hidden" />
                                     <input asp-for="@login.ProviderKey" name="ProviderKey" type="hidden" />
-                                    <button type="submit" class="btn btn-default" title="Remove this @login.LoginProvider login from your account">Remove</button>
+                                    <button type="submit" class="btn btn-default" title="Remove this @login.LoginProvider login from your account">Gỡ bỏ</button>
                                 </div>
                             </form>
                         }
@@ -39,7 +39,7 @@
 }
 @if (Model.OtherLogins?.Count > 0)
 {
-    <h4>Add another service to log in.</h4>
+    <h4>Thêm dịch vụ đăng nhập.</h4>
     <hr />
     <form asp-action="LinkLogin" method="post" class="form-horizontal">
         <div id="socialLoginList">

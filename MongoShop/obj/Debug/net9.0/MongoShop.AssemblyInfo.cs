@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1999400a77148a341bc364dd49b3f87295c7f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="AspNetCore.Identity.Mongo" Version="10.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\AppManage\Data\" />
+    <Folder Include="Areas\AppManage\Models\" />
   </ItemGroup>
 
 </Project>

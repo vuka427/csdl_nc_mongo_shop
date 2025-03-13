@@ -1,7 +1,10 @@
 using AspNetCore.Identity.Mongo;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Configuration;
+using MongoDB.Driver;
+using MongoShop.Data;
 using MongoShop.Models.Entities;
+using MongoShop.MongoDb;
 using MongoShop.Policy;
 using MongoShop.Services.Impletment;
 using MongoShop.Services.Interface;
@@ -35,9 +38,22 @@ builder.Services.AddSingleton<IAuthorizationHandler, HasClaimHandler>();
 builder.Services.AddSingleton<IEmailSender, EmailSender>();
 builder.Services.AddRazorPages();
 
+var mongoClient = new MongoClient("mongodb://localhost:27017");
+var database = mongoClient.GetDatabase("mongoShop");
+builder.Services.AddSingleton(database);
 
+builder.Services.AddScoped<MongoRepository<Product>>(provider => new MongoRepository<Product>(database, "Products"));
+builder.Services.AddScoped<MongoRepository<Order>>(provider => new MongoRepository<Order>(database, "Orders"));
+builder.Services.AddScoped<MongoRepository<Category>>(provider => new MongoRepository<Category>(database, "Categories"));
+builder.Services.AddScoped<MongoRepository<Cart>>(provider => new MongoRepository<Cart>(database, "Carts"));
 
+builder.Services.AddAuthorization(options => 
+{
+    options.AddPolicy("viewManageMenu", policy => {
+        policy.RequireRole(RoleName.Administrator);
+    });
 
+});
 
 var app = builder.Build();
 

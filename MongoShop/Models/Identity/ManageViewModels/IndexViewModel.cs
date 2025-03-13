@@ -4,6 +4,7 @@ namespace MongoShop.Models.Identity.ManageViewModels;
 
 public class IndexViewModel
 {
+    [Display(Name = "Tài khoản")]
     public string Username { get; set; }
 
     public bool IsEmailConfirmed { get; set; }
@@ -13,7 +14,7 @@ public class IndexViewModel
     public string Email { get; set; }
 
     [Phone]
-    [Display(Name = "Phone number")]
+    [Display(Name = "Số điện thoại")]
     public string PhoneNumber { get; set; }
 
     public string StatusMessage { get; set; }

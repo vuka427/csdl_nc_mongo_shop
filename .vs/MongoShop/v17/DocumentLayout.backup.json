@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\shared\\_menumanagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\shared\\_menumanagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\identity\\accountviewmodels\\externalloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\identity\\accountviewmodels\\externalloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\areas\\appmanage\\controllers\\productmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\areas\\appmanage\\controllers\\productmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\areas\\appmanage\\views\\productmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\areas\\appmanage\\views\\productmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\areas\\appmanage\\views\\productmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\areas\\appmanage\\views\\productmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\areas\\appmanage\\views\\productmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\areas\\appmanage\\views\\productmanage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\areas\\appmanage\\views\\productmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\areas\\appmanage\\views\\productmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\mongodb\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|d:\\caohoc\\csdl\\project\\csdl_mongodb\\csdl_nc_mongo_shop\\mongoshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{535A5BC4-9603-4E23-8122-B85E5F54DB68}|MongoShop\\MongoShop.csproj|solutionrelative:mongoshop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_CookieConsentPartial.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T19:17:15.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T19:16:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T19:16:01.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:10:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MenuManagePartial.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_MenuManagePartial.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Shared\\_MenuManagePartial.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Shared\\_MenuManagePartial.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Shared\\_MenuManagePartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:11:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Delete.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Delete.cshtml",
+              "RelativeToolTip": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:07:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Edit.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Edit.cshtml",
+              "RelativeToolTip": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:06:34.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Create.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Create.cshtml",
+              "RelativeToolTip": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:05:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Index.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Index.cshtml",
+              "RelativeToolTip": "MongoShop\\Areas\\AppManage\\Views\\ProductManage\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:04:31.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManageController.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Controllers\\ProductManageController.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Areas\\AppManage\\Controllers\\ProductManageController.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Areas\\AppManage\\Controllers\\ProductManageController.cs",
+              "RelativeToolTip": "MongoShop\\Areas\\AppManage\\Controllers\\ProductManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:59:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:51:01.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Entities\\Cart.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Cart.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:25:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Entities\\Order.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:25:16.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Entities\\Category.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:24:03.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:23:28.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoDb\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "MongoShop\\MongoDb\\MongoRepository.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoDb\\MongoRepository.cs",
+              "RelativeToolTip": "MongoShop\\MongoDb\\MongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:15:41.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Program.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Program.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Program.cs",
+              "RelativeToolTip": "MongoShop\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:16:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T10:17:11.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MongoShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:16:22.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MongoShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:16:18.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MongoShop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:09:35.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExternalLoginViewModel.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Identity\\AccountViewModels\\ExternalLoginViewModel.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Models\\Identity\\AccountViewModels\\ExternalLoginViewModel.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Models\\Identity\\AccountViewModels\\ExternalLoginViewModel.cs",
+              "RelativeToolTip": "MongoShop\\Models\\Identity\\AccountViewModels\\ExternalLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:09:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MongoShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MongoShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:28:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "MongoShop\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "MongoShop\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:20:11.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

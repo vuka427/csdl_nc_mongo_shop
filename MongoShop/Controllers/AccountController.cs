@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Authentication;
+﻿using AspNetCore.Identity.Mongo.Model;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using MongoShop.Data;
 using MongoShop.Extensions;
 using MongoShop.Models.Entities;
 using MongoShop.Models.Identity.AccountViewModels;
@@ -20,6 +22,7 @@ public class AccountController : Controller
 {
     private readonly UserManager<AppUser> _userManager;
     private readonly SignInManager<AppUser> _signInManager;
+    private readonly RoleManager<MongoRole> _roleManager;
     private readonly IEmailSender _emailSender;
     private readonly ILogger _logger;
 
@@ -27,12 +30,14 @@ public class AccountController : Controller
         UserManager<AppUser> userManager,
         SignInManager<AppUser> signInManager,
         IEmailSender emailSender,
-        ILogger<AccountController> logger)
+        ILogger<AccountController> logger,
+        RoleManager<MongoRole> roleManager)
     {
         _userManager = userManager;
         _signInManager = signInManager;
         _emailSender = emailSender;
         _logger = logger;
+        _roleManager = roleManager;
     }
 
     [TempData]
@@ -218,10 +223,21 @@ public class AccountController : Controller
         ViewData["ReturnUrl"] = returnUrl;
         if (ModelState.IsValid)
         {
+            if (!await _roleManager.RoleExistsAsync(RoleName.Member))
+            {
+                await _roleManager.CreateAsync(new MongoRole(RoleName.Member));
+            }
+            if (!await _roleManager.RoleExistsAsync(RoleName.Administrator))
+            {
+                await _roleManager.CreateAsync(new MongoRole(RoleName.Administrator));
+            }
+      
             var user = new AppUser { UserName = model.Username, Email = model.Email };
             var result = await _userManager.CreateAsync(user, model.Password);
             if (result.Succeeded)
             {
+                await _userManager.AddToRoleAsync(user, RoleName.Administrator);
+                await _userManager.AddClaimAsync(user, new Claim(ClaimTypes.Role, RoleName.Administrator));
                 _logger.LogInformation("User created a new account with password.");
 
                 var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\MongoShop\\MongoShop\\MongoShop.csproj": {}
+    "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoShop.csproj": {}
   },
   "projects": {
-    "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\MongoShop\\MongoShop\\MongoShop.csproj": {
+    "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\MongoShop\\MongoShop\\MongoShop.csproj",
+        "projectUniqueName": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoShop.csproj",
         "projectName": "MongoShop",
-        "projectPath": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\MongoShop\\MongoShop\\MongoShop.csproj",
+        "projectPath": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\MongoShop.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\MongoShop\\MongoShop\\obj\\",
+        "outputPath": "D:\\CaoHoc\\CSDL\\Project\\csdl_mongodb\\csdl_nc_mongo_shop\\MongoShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,10 @@
             "AspNetCore.Identity.Mongo": {
               "target": "Package",
               "version": "[10.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

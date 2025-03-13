@@ -6,9 +6,9 @@ namespace MongoShop.Models.Identity.ManageViewModels;
 public class EnableAuthenticatorViewModel
 {
     [Required]
-    [StringLength(7, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+    [StringLength(7, ErrorMessage = "{0} tối thiểu {2} và tối đa {1} ký tự.", MinimumLength = 6)]
     [DataType(DataType.Text)]
-    [Display(Name = "Verification Code")]
+    [Display(Name = "Mã xác thực từ ứng dụng auth")]
     public string Code { get; set; }
 
     [BindNever]

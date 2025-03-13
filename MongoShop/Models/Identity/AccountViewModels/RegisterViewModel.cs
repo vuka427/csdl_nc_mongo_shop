@@ -5,7 +5,7 @@ namespace MongoShop.Models.Identity.AccountViewModels;
 public class RegisterViewModel
 {
     [Required]
-    [Display(Name = "Username")]
+    [Display(Name = "Tài khoản")]
     public string Username { get; set; }
 
     [Required]
@@ -14,13 +14,13 @@ public class RegisterViewModel
     public string Email { get; set; }
 
     [Required]
-    [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+    [StringLength(100, ErrorMessage = "{0} tối thiểu {2} và tối đa {1} ký tự.", MinimumLength = 6)]
     [DataType(DataType.Password)]
-    [Display(Name = "Password")]
+    [Display(Name = "Mật khẩu")]
     public string Password { get; set; }
 
     [DataType(DataType.Password)]
-    [Display(Name = "Confirm password")]
-    [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+    [Display(Name = "Nhập lại mật khẩu")]
+    [Compare("Password", ErrorMessage = "Mật khẩu không khớp.")]
     public string ConfirmPassword { get; set; }
 }
